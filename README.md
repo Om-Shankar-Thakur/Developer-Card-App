@@ -14,7 +14,7 @@ This app displays a developer card with basic information about the owner, such 
 
 ## Screenshots
 
-![Screenshot](screensho)
+![Screenshot](developer-card.png)
 
 ## Installation
 
